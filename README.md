@@ -202,4 +202,4 @@ This repository serves as the official landing page for Star Wars Empire at War.
 **Get the most recent version of Star Wars Empire at War today!**
 
 ---
-**Last updated:** 2026-11-13 18:20:21 UTC
+**Last updated:** 2026-11-14 00:06:19 UTC
